@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.14.1",
+    "html-react-parser": "^5.1.12",
+    "react-router-dom": "^6.23.1",
+    "react-star-ratings": "^2.3.0"
+  }
+}
